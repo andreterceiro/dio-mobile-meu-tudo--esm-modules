@@ -15,3 +15,8 @@ You can use through the root node type of the package.json:
 ![using-esm-modules](images/using-esm-modules.png)
 
 A comment: the default value of this node is "commonjs".
+
+
+# Export default of ESM modules
+
+![export default of ESM modules](images/export-default-esm-modules.png)
