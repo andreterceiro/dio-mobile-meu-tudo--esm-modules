@@ -25,3 +25,5 @@ A comment: the default value of this node is "commonjs".
 # Importing ESM modules
 
 ![importing ESM modules](images/importing-esm-modules.png)
+
+**An important observation**: in this way to import a module, you **must** specify the extension of the file.
