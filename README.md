@@ -46,3 +46,8 @@ You can import several things using "*".
 # Importing only one thing if several was exported - destructuring
 
 ![destructuring~](images/destructuring.png)
+
+
+# Importing * using an alias
+
+![import * using an alias](images/import-asterisk-using-alias.png)
