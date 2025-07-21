@@ -56,3 +56,8 @@ You can import several things using "*".
 # Direct export
 
 ![direct export](images/direct-export.png)
+
+
+# Slides of the class
+
+[link](https://hermes.dio.me/files/assets/0d9f3b1d-ad86-44e8-927a-4322c486e910.pptx)
