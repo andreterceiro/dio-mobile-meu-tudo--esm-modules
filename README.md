@@ -39,3 +39,5 @@ A comment: you can use a module file with the extension **.mjs**. This way make 
 # Importing several thins (using ESM modules)
 
 You can import several things using "*".
+
+![importing several things](images/importing-several-things.png)
