@@ -34,3 +34,8 @@ A comment: you can use a module file with the extension **.mjs**. This way make 
 # Exporting several things (using ESM modules)
 
 ![exporting several things](images/exporting-several-things.png)
+
+
+# Importing several thins (using ESM modules)
+
+You can import several things using "*".
