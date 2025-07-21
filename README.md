@@ -51,3 +51,8 @@ You can import several things using "*".
 # Importing * using an alias
 
 ![import * using an alias](images/import-asterisk-using-alias.png)
+
+
+# Direct export
+
+![direct export](images/direct-export.png)
