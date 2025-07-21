@@ -13,3 +13,5 @@ Teacher explained that in the past we had different browsers implementing differ
 You can use through the root node type of the package.json:
 
 ![using-esm-modules](images/using-esm-modules.png)
+
+A comment: the default value of this node is "commonjs".
