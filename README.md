@@ -29,3 +29,8 @@ A comment: the default value of this node is "commonjs".
 **An important observation**: in this way to import a module, you **must** specify the extension of the file.
 
 A comment: you can use a module file with the extension **.mjs**. This way make more sense to specify the extension of the file. This type of the file was projected to store only JavaScript functions to be exported. You can choose in this case to use the extension **.js** or **.mjs**.
+
+
+# Exporting several things (using ESM modules)
+
+![exporting several things](images/exporting-several-things.png)
