@@ -20,3 +20,8 @@ A comment: the default value of this node is "commonjs".
 # Export default of ESM modules
 
 ![export default of ESM modules](images/export-default-esm-modules.png)
+
+
+# Importing ESM modules
+
+![importing ESM modules](images/importing-esm-modules.png)
