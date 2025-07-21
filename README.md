@@ -66,3 +66,8 @@ You can import several things using "*".
 # Repository related to the class
 
 [link](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/05-esm-modules)
+
+
+# Mozilla documentation
+
+[link](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Modules)
