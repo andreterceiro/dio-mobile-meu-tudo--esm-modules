@@ -36,8 +36,13 @@ A comment: you can use a module file with the extension **.mjs**. This way make 
 ![exporting several things](images/exporting-several-things.png)
 
 
-# Importing several thins (using ESM modules)
+# Importing several things (using ESM modules)
 
 You can import several things using "*".
 
 ![importing several things](images/importing-several-things.png)
+
+
+# Importing only one thing if several was exported - destructuring
+
+![destructuring~](images/destructuring.png)
